@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**AlexRz101/AlexRz101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alexander Ruiz, a Computer Science student at CSUN, aiming to earn my Bachelor's degree by May 2027. I'm passionate about building apps and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- **Coinverse** – A currency converter that converts real and fictional currencies. Real rates are fetched daily, while fictional currencies are sourced from popular media like video games, movies, and shows. *(Private)*  
+- **Road2CS** – A template-based roadmap for CSUN Computer Science students to guide their learning and projects. *(Private)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Computer Science topics and full-stack development to strengthen my skills for real-world applications.
+
+## 👯 Looking to Collaborate On
+- Open to collaboration on projects related to web development, full-stack apps, or educational tools.
+
+## 📫 How to Reach Me
+- Email: prestigealexx@gmail.com  
+- [LinkedIn](linkedin.com/in/alexander-r-6b620a210)  
+
+
+## 💻 Tech Stack & Tools
+- **Languages:** Java, JavaScript, SQL, HTML, CSS  
+- **Frameworks & Libraries:** Spring Boot, React, Node.js  
+- **Databases & APIs:** PostgreSQL, Postman  
+- **Version Control & Tools:** Git, GitHub
