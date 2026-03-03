@@ -3,7 +3,9 @@
 I'm Alexander Ruiz, a Computer Science student at CSUN, aiming to earn my Bachelor's degree by May 2027. I'm passionate about building apps and learning new technologies.
 
 ## 🔭 Currently Working On
-- **Coinverse** – A full stack currency converter that converts real and fictional currencies. Real rates are fetched daily, while fictional currencies are sourced from popular media like video games, movies, and shows. Current implementation includes Full stack integration, security and authorization and data persisting. *(Private)*  
+- **Coinverse** *(Private)*  
+  [🎬 Demo Video](https://youtu.be/OJaqfhAZK94?si=c40U7k7pD3ci5Qfv)  
+  A full stack currency converter that converts real and fictional currencies. Real rates are fetched daily, while fictional currencies are sourced from popular media like video games, movies, and shows. Current implementation includes full stack integration, security and authorization, and data persisting.
 - **Road2CS** – A full stack template-based roadmap for CSUN Computer Science students to guide their learning and projects. Current CSUN group project. *(Private)*
 
 ## 🌱 Currently Learning
