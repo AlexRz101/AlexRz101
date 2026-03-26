@@ -23,6 +23,7 @@ I’m Alexander Ruiz, a Computer Science student at CSUN, aiming to earn my Bach
 
 ## 💻 Tech Stack & Tools
 - **Languages:** Java, JavaScript, SQL, HTML, CSS
-- **Frameworks & Libraries:** Spring Boot, React, Node.js
+- **Frameworks & Libraries:** Spring Boot, React
 - **Databases & APIs:** PostgreSQL, Postman
 - **Version Control & Tools:** Git, GitHub
+- **DevOps and Cloud:** Docker, Vercel, Render
