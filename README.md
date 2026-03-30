@@ -19,7 +19,7 @@ I’m Alexander Ruiz, a Computer Science student at CSUN, aiming to earn my Bach
 
 ## 📫 How to Reach Me
 - Email: prestigealexx@gmail.com
-- [LinkedIn](linkedin.com/in/alexander-r-6b620a210)
+- [LinkedIn](https://www.linkedin.com/in/alexander-r-6b620a210)
 
 ## 💻 Tech Stack & Tools
 - **Languages:** Java, JavaScript, SQL, HTML, CSS
