@@ -3,7 +3,7 @@
 I’m Alexander Ruiz, a Computer Science student at CSUN, aiming to earn my Bachelor’s degree by May 2027. I’m passionate about building apps and learning new technologies.
 
 ## 🔭 Currently Working On
-- **Coinverse** *(Private)*<br>
+- **Coinverse** <br>
   [Coinverse - Real & Fictional Currency Converter](https://coinverse-exchange.vercel.app) *(Desktop only)* <br>
   A full stack currency converter that converts real and fictional currencies. Real rates are fetched daily, while fictional currencies are sourced from popular media like video games, movies and shows. Current implementation includes full stack integration, security and authorization, and data persisting.
 
