@@ -2,7 +2,7 @@
 
 I’m Alexander Ruiz, a Computer Science student at CSUN, aiming to earn my Bachelor’s degree by May 2027. I’m passionate about building apps and learning new technologies.
 
-## 🔭 Currently Working On
+## Notable Projects
 - **Personal Portfolio** <br>
   [Personal Portfolio](https://alexrz101-personal-portfolio.vercel.app/) *(WIP, No mobile responsiveness yet)* <br>
   Personal portfolio website showcasing my projects, skills and experience as a web developer. Built with React, TypeScript, Tailwind CSS and React Router, featuring a cyberpunk-inspired design. <br>
